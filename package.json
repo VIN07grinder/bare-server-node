@@ -37,7 +37,7 @@
     "build": "tsc",
     "dev": "tsc --watch",
     "fmt": "prettier --write .",
-    "start": "node dist/cli.js"
+    "start": "node dist/createServer.js"
   },
   "dependencies": {
     "async-exit-hook": "^2.0.1",
